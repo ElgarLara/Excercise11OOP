@@ -1,5 +1,6 @@
 package com.Excercise11OOP.app;
 import com.Excercise11OOP.model.Cat;
+ 
 public class Cato {
 
 	public static void main(String[] args) 
@@ -15,6 +16,8 @@ public class Cato {
 		System.out.println("Michi's Age:"+michi.getAge());
 		
 		System.out.println(michi.ToString());
+		
+		Angora Tom=new Angora();
 
 	}
 
